@@ -113,8 +113,7 @@ npm run export
     <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/raiza-duggal-068740323">linkedin.com/in/your-profile</a></li>
   </ul>
 
-  <hr />
-  <p><em>Inspired by modern portfolio designs and built with ❤️ using open source tools.</em></p>
+  
 
 </body>
 </html>
